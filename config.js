@@ -11,9 +11,9 @@ global.sgh = process.env.LINK_GITHUB
 global.sgc = https://chat.whatsapp.com/E8teQ7sHHVVIBbGhQod2ul
 global.ownernumber = 6285859047172
 global.owner = [
-  ['6285859047172'],
-  ['6285859047172'],
-  [`6285859047172`, `Rull`, true]
+  ['6281247822525'],
+  ['6281247822525'],
+  [`6281247822525`, `Rull`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
